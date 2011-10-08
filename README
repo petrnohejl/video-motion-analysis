@@ -1,0 +1,12 @@
+--------------------------------------------------------------------------------
+
+Video Motion Analysis
+(c) 2010 Petr Nohejl, Jakub Libosvár, Petr Panáček
+
+Projekt Video Motion Analysis byl vytvořen v rámci předmětu ZPO (Zpracování
+obrazu) na FIT VUT v Brně. Cílem práce bylo implementovat algoritmy pro detekci
+pohybu ve videu a případné reakce počítače na detekovaný pohyb. Pro detekci
+pohybu byly využity 2 metody: základní diferenční metoda a LBP histogramy. Více 
+informací naleznete v dokumentaci.
+
+--------------------------------------------------------------------------------
